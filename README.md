@@ -1,4 +1,4 @@
-# Highway-Traffic-Count
+#RoadWatch
 Computer vision project
 
 This is an object detection model that detects incoming traffic on a highway in a video. 
